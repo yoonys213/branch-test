@@ -1,1 +1,1 @@
-# Git Practice Project
+# practicing git branching and merging
